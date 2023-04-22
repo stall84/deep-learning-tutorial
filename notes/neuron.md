@@ -11,6 +11,6 @@
 
 ![IMG_3676](./images/IMG_3676.jpg)
 
-- The actual action inside the neuron is a relatively simple **weighted summing of the inputs.** as seen in following illustration.
+- The actual action inside the neuron is a relatively simple **weighted summing of the inputs.** as seen in following illustration. _Note that there is also an [**activation function**](./activation-function.md) that is applied to the whole neuron/node layer as a '2nd step' after the weighted summing function_
 
 ![IMG_3678](./images/IMG_3678.jpg)
