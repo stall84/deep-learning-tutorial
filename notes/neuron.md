@@ -7,6 +7,10 @@
 
 <hr/>
 
-- Notice how in this particular example the output values are _"all on the same **row**"_ as the input values.ß
+- Notice how in this particular example the output values are _"all on the same **row**"_ as the input values.
 
 ![IMG_3676](./images/IMG_3676.jpg)
+
+- The actual action inside the neuron is a relatively simple **weighted summing of the inputs.** as seen in following illustration.
+
+![IMG_3678](./images/IMG_3678.jpg)
